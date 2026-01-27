@@ -2,16 +2,16 @@
 #EXTINF:-1 tvg-id="i24NEWSHebrew.il@SD",i24NEWS
 https://fastly.live.brightcove.com/6386790215112/eu-central-1/5377161796001/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJob3N0IjoiZXJmajYzLmVncmVzcy53YzQ3bTEiLCJhY2NvdW50X2lkIjoiNTM3NzE2MTc5NjAwMSIsImVobiI6ImZhc3RseS5saXZlLmJyaWdodGNvdmUuY29tIiwiaXNzIjoiYmxpdmUtcGxheWJhY2stc291cmNlLWFwaSIsInN1YiI6InBhdGhtYXB0b2tlbiIsImF1ZCI6WyI1Mzc3MTYxNzk2MDAxIl0sImp0aSI6IjYzODY3OTAyMTUxMTIifQ.8ZawImK7DfcrrXeAT2OVZ62qQJrJiBaoc7Y1DNNq1bg/playlist-hls.m3u8?__nn__=5476555825001&hdnea=st=1767895200~exp=1767898800~acl=/6386790215112/eu-central-1/5377161796001/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJob3N0IjoiZXJmajYzLmVncmVzcy53YzQ3bTEiLCJhY2NvdW50X2lkIjoiNTM3NzE2MTc5NjAwMSIsImVobiI6ImZhc3RseS5saXZlLmJyaWdodGNvdmUuY29tIiwiaXNzIjoiYmxpdmUtcGxheWJhY2stc291cmNlLWFwaSIsInN1YiI6InBhdGhtYXB0b2tlbiIsImF1ZCI6WyI1Mzc3MTYxNzk2MDAxIl0sImp0aSI6IjYzODY3OTAyMTUxMTIifQ.8ZawImK7DfcrrXeAT2OVZ62qQJrJiBaoc7Y1DNNq1bg/*~hmac=59be9c55159d8b6167ec5d5a7528df6b7bf144a4d8fe71dd486a93e5032f20a2
 
-#EXTINF:-1 tvg-id="Kan11.il@SD",כאן 11 KAN 11 (1080p)
+#EXTINF:-1 tvg-id="Kan11.il@SD",KAN 11 (1080p)
 https://kan11w.media.kan.org.il/hls/live/2105694/2105694/master.m3u8
 
-#EXTINF:-1 tvg-id="Channel13.il@SD",רשת 13 RESHET 13 (720p)
+#EXTINF:-1 tvg-id="Channel13.il@SD",RESHET 13 (720p)
 https://d2xg1g9o5vns8m.cloudfront.net/out/v1/0855d703f7d5436fae6a9c7ce8ca5075/index.m3u8
 
-#EXTINF:-1 tvg-id="Hidabroot.il@SD",הידברות HIDABROOT (1080p)
+#EXTINF:-1 tvg-id="Hidabroot.il@SD",HIDABROOT (1080p)
 https://cdn.cybercdn.live/HidabrootIL/Live97/playlist.m3u8
 
-#EXTINF:-1 tvg-id="KabbalahforthePeopleIsrael.il@SD",קבלה לעם KABBALAH L'AM (540p) [Not 24/7]
+#EXTINF:-1 tvg-id="KabbalahforthePeopleIsrael.il@SD",KABBALAH L'AM (540p) [Not 24/7]
 https://edge3.uk.kab.tv/live/tv66-heb-high/playlist.m3u8
 
 #EXTINF:-1 group-title="News",SABC NEWS
